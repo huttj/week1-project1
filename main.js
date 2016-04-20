@@ -8,7 +8,7 @@
 //1. Log your name to the console (as a string).
 
 console.log("Question 1");
-console.log(yourAnswer);
+console.log("Joshua's name");
 
 //2. Declare a variable called 'name', and then log it to the console.
 
@@ -17,6 +17,10 @@ console.log(name);
 
 //3. Declare two variables with number values. 
 //   Add, subtract, multiply and divide them.
+
+var one = 1;
+var two = 2;
+console.log(one + two);
 
 //4. Declare two variables with string values. 
 //   Create a third variable that concatenates them.
